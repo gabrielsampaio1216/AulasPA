@@ -1,4 +1,4 @@
 # AulasPA
 Algoritmos das aulas de Programação e Algoritmos
 
-Exercício 01 - Somar 2 números - https://scratch.mit.edu/projects/501188312
+Exercícios - https://scratch.mit.edu/studios/29137361/
